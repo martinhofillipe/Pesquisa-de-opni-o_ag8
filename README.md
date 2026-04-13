@@ -1,4 +1,4 @@
-# Pesquisa de Satisfação - TudoWeb
+# Pesquisa de Satisfação
 
 Este projeto foi desenvolvido em Python para coletar opiniões de clientes sobre o atendimento.
 
